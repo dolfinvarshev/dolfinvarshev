@@ -1,4 +1,4 @@
-[![MasterHead](https://images.wallpapersden.com/image/download/adventure-hd-enchanting-starry-sky_bmZuZ2eUmZqaraWkpJRmbmdlrWZlbmw.jpg)](https://rishavchanda.io)
+[![MasterHead](https://thumb.ac-illust.com/d8/d8d32dfc59ebee02130b1222c29591e1_t.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dolfin Varshev</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
